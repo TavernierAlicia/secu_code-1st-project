@@ -1,0 +1,22 @@
+{
+  "name": "secu_code-1st-project",
+  "version": "1.0.0",
+  "description": "Course exercise example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TavernierAlicia/secu_code-1st-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TavernierAlicia/secu_code-1st-project/issues"
+  },
+  "homepage": "https://github.com/TavernierAlicia/secu_code-1st-project#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
